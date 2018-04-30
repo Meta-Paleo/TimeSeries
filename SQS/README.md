@@ -29,6 +29,6 @@ The bootstrap code for this version will generate the median and 95% confidence 
 
 [Close et al., 2017](https://www.nature.com/articles/ncomms15381): Controlling for the species-area effect supports constrained long-term Mesozoic terrestrial vertebrate diversification.
 
-[Close et al., 2018](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12987): How should we estimate diversity in the fossil record? Testing richness estimators using samplingâstandardised discovery curves.
+[Close et al., 2018](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12987): How should we estimate diversity in the fossil record? Testing richness estimators using sampling standardised discovery curves.
 
 [Tennant et al., 2018](https://peerj.com/articles/4417/): How has our knowledge of dinosaur diversity through geologic time changed through research history? (More via [paleorXiv](https://osf.io/nuhqx/)).
