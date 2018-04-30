@@ -10,3 +10,5 @@ The purpose of this project is to design a standardised protocol for the analysi
 
 ########################################
 
+This project is open to participation from anyone. Comments, suggestions, and data are all highly valued and welcomed!
+
