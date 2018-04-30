@@ -1,5 +1,15 @@
 # Time Series
 
+The purpose of this project is to design a standardised protocol for the analysis of palaeontological time series data. This will include aspects such as:
+
+- How to treat missing data.
+- The optimal method of 'detrending'.
+- Autoregressive models.
+- How to treat residual data, and statistical biases.
+- Model-fitting and correlation analyses.
+
+########################################
+
 ## How to execute SQS in both R and Perl.
 
 First step is to download a list of fossil occurrences from the [Paleobiology Database](https://paleobiodb.org/cgi-bin/bridge.pl?a=displayDownloadGenerator).
