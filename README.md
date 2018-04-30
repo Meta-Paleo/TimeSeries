@@ -29,7 +29,7 @@ The bootstrap code for this version will generate the median and 95% confidence 
 
 [Tennant et al., 2017](https://www.nature.com/articles/ncomms12737/): Sea level regulated tetrapod diversity dynamics through the Jurassic/Cretaceous interval (see the SI especially).
 
-[Close et al., 2017](https://www.nature.com/articles/ncomms15381)Controlling for the species-area effect supports constrained long-term Mesozoic terrestrial vertebrate diversification.
+[Close et al., 2017](https://www.nature.com/articles/ncomms15381): Controlling for the species-area effect supports constrained long-term Mesozoic terrestrial vertebrate diversification.
 
 [Close et al., 2018](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12987): How should we estimate diversity in the fossil record? Testing richness estimators using sampling‐standardised discovery curves.
 
