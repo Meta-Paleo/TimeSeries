@@ -28,7 +28,7 @@ data.occs<-table(data[,"genus"])
 
 sqs<-function(ab,q,trials,method,ignore.singletons,dominant)  {
   
-  params <- array(data=NA,dim=0,dimnames=c("raw richness"))
+  params <- array(data=NA,dim=0)
   if (missing(trials))  {
     trials <- 100
   }
