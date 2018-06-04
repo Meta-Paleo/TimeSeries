@@ -19,7 +19,7 @@ This is a markdown script for downloading and analysing fossil occurrence data f
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <https://rmarkdown.rstudio.com/authoring_basics.html>.
 
 
-## Installing the palebioDB package
+## Installing the paleobioDB package
 
 Rather than using the downloader within the Paleobiology Database, let's try playing with the [paleobioDB](https://github.com/ropensci/paleobioDB) package for R.
 
